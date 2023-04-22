@@ -1,2 +1,2 @@
 # nikame-career-website
-Career website
+Careers website for Nikame
